@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Eduardo Medrano - UX/UI and Developer FrontEnd</h2>
+<h2 align="left">Hi 👋! My name is Eduardo Medrano - UX/UI Designer Engineer - Developer FrontEnd</h2>
 
 ###
 
