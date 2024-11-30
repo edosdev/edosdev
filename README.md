@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="162" src="https://wallpapers.com/images/hd/vegeta-super-saiyan-god-1080-x-1920-wallpaper-3e5mn92oyz33tuyl.jpg"  />
+<img align="right" height="162" src="https://media.tenor.com/XMSxaBdDjooAAAAM/vegeta-power.gif"  />
 
 ###
 
