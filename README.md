@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="162" src="https://media1.tenor.com/m/2XORCXWP-XQAAAAd/vegeta-super-saiyan-blue.gif"  />
+<img align="right" height="200" src="https://media1.tenor.com/m/2XORCXWP-XQAAAAd/vegeta-super-saiyan-blue.gif"  />
 
 ###
 
