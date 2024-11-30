@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="162" src="https://media.tenor.com/XMSxaBdDjooAAAAM/vegeta-power.gif"  />
+<img align="right" height="162" src="https://c.tenor.com/y4iDc_duXGEAAAAC/tenor.gif"  />
 
 ###
 
@@ -60,6 +60,8 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
 </div>
 
 ###
