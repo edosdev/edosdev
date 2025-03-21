@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Throughout my 16 years of experience, I enjoy collaborating with multidisciplinary teams to develop digital solutions that generate a positive impact. I consider myself a constant learner, always seeking to improve my skills and knowledge to deliver high-quality projects and work each time.<br><br>[Spanish]<br>A lo largo de mis 16 años de experiencia, disfruta colaborando con equipos multidisciplinarios para desarrollar soluciones digitales que generen un impacto positivo. Me considero un aprendiz constante, siempre buscando mejorar mis habilidades y conocimientos para entregar cada vez proyectos y trabajos de alta calidad.</h5>
+<h5 align="left">My experience has allowed me to develop digital solutions, with a constant focus on excellence through learning and applying up-to-date knowledge.<br><br>[Spanish]<br>Mi experiencia me ha permitido desarrollar soluciones digitales, con un enfoque constante en la excelencia mediante el aprendizaje y la aplicación de conocimientos actualizados.</h5>
 
 ###
 
