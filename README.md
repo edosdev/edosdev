@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="illustrator logo"  />
+  <img src="https://api.iconify.design/skill-icons/illustrator" height="30" alt="illustrator logo"  />
   <img width="12" />
   <img src="https://api.iconify.design/skill-icons/aftereffects.svg" height="30" alt="adobeaftereffects logo"  />
   <img width="12" />
