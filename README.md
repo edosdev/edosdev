@@ -17,7 +17,7 @@
   <img width="12" />
   <img src=https://img.icons8.com/?size=100&id=qeQp8vgeqeEa&format=png&color=000000" height="30" alt="xd logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/css" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/663399" height="30" alt="css3 logo"  />
   <img width="12" />
