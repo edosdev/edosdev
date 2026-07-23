@@ -17,9 +17,9 @@
   <img width="12" />
   <img src=https://img.icons8.com/?size=100&id=qeQp8vgeqeEa&format=png&color=000000" height="30" alt="xd logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css" height="30" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/663399" height="30" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/css" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="illustrator logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="30" alt="adobeaftereffects logo"  />
+  <img src="https://api.iconify.design/skill-icons/aftereffects.svg" height="30" alt="adobeaftereffects logo"  />
   <img width="12" />
     <img width="12" />
     <img width="12" />
